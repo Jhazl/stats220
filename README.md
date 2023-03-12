@@ -7,11 +7,11 @@
 
 
 ## The projects you will eventually find on this page:
-1. Project 1 (Animated gif and meme using R library magick)
-2. Project 2 (Coming soon!)
-3. Project 3 (Coming soon!)
-4. Project 4 (Coming soon!)
-5. Project 5 (Coming soon!)
+1. Project 1 (**Animated gif and meme using R library magick**)
+2. Project 2 (**Coming soon!**)
+3. Project 3 (**Coming soon!**)
+4. Project 4 (**Coming soon!**)
+5. Project 5 (**Coming soon!**)
 
 ## Link to my website
 [Click here for my website](https://jhazl.github.io/stats220/)
