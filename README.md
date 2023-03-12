@@ -6,7 +6,7 @@
 **For questions you can email me at:** Jaden.hazelwood@gmail.com
 
 
-## The projects you will eventually find on this page:
+## The projects you will eventually find on this repository:
 1. Project 1 (**Animated gif and meme using R library magick**)
 2. Project 2 (**Coming soon!**)
 3. Project 3 (**Coming soon!**)
